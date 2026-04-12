@@ -102,40 +102,40 @@ Hey, I'm **Rajrup**, a CSE (AIML) student at **MIT Manipal** 🇮🇳 building a
 ### 🧠 ML / AI
 
 <a href="https://github.com/fastidiousflame/Mahe_Mobility_Bird-s_Eye">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fastidiousflame&repo=Mahe_Mobility_Bird-s_Eye&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fastidiousflame&repo=Mahe_Mobility_Bird-s_Eye&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f&cache_seconds=86400" />
 </a>
 <a href="https://github.com/fastidiousflame/Chronos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fastidiousflame&repo=Chronos&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fastidiousflame&repo=Chronos&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f&cache_seconds=86400" />
 </a>
 
 ### 🖥️ Full Stack / Desktop
 
 <a href="https://github.com/fastidiousflame/Hotel-Management-Using-JavaFX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fastidiousflame&repo=Hotel-Management-Using-JavaFX&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fastidiousflame&repo=Hotel-Management-Using-JavaFX&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f&cache_seconds=86400" />
 </a>
 <a href="https://github.com/fastidiousflame/Exam_Management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fastidiousflame&repo=Exam_Management&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fastidiousflame&repo=Exam_Management&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f&cache_seconds=86400" />
 </a>
 
 ### 🏆 Hackathon Projects
 
 <a href="https://github.com/fastidiousflame/Acm_hackathon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fastidiousflame&repo=Acm_hackathon&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fastidiousflame&repo=Acm_hackathon&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f&cache_seconds=86400" />
 </a>
-<a href="https://github.com/fastidiousflame/aurora_hackathon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fastidiousflame&repo=aurora_hackathon&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f" />
+<a href="https://github.com/JvlivsFreezer/hackathon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JvlivsFreezer&repo=hackathon&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f&cache_seconds=86400" />
 </a>
 <a href="https://github.com/Manipal-Hackathon-2025/SafaiSaathi-Bugbounty">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manipal-Hackathon-2025&repo=SafaiSaathi-Bugbounty&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manipal-Hackathon-2025&repo=SafaiSaathi-Bugbounty&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f&cache_seconds=86400" />
 </a>
 
 ### 🤝 Collaborated On
 
 <a href="https://github.com/ArpanBhar/celestia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpanBhar&repo=celestia&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpanBhar&repo=celestia&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f&cache_seconds=86400" />
 </a>
 <a href="https://github.com/ArpanBhar/NovaGenesisHackathon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpanBhar&repo=NovaGenesisHackathon&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpanBhar&repo=NovaGenesisHackathon&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f&cache_seconds=86400" />
 </a>
 
 </div>
