@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:4c1d95,100:0a0a0f&height=200&section=header&text=Rajrup&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:4c1d95,100:0a0a0f&height=220&section=header&text=Rajrup&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=22&animation=fadeIn" width="100%"/>
  
 <div align="center">
  
@@ -35,24 +35,30 @@ Hey, I'm **Rajrup**, a CS student at **MIT Manipal** 🇮🇳 building at the in
  
 ## ⚙️ Tech Stack
  
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind&theme=dark"/>
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind&theme=dark&perline=6"/>
 </p>
  
-### Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb,postgresql,oracle&theme=dark"/>
+<br/>
+ 
+### 🛠️ Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb,postgresql,oracle&theme=dark&perline=6"/>
 </p>
  
-### AI / ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,kaggle,opencv&theme=dark"/>
+<br/>
+ 
+### 🤖 AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=6"/>
 </p>
  
-### Desktop & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,linux,figma,vscode&theme=dark"/>
+<br/>
+ 
+### 🖥️ Desktop & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,git,linux,figma,vscode&theme=dark&perline=6"/>
 </p>
  
 ---
@@ -78,7 +84,7 @@ Hey, I'm **Rajrup**, a CS student at **MIT Manipal** 🇮🇳 building at the in
 ## 🏆 GitHub Trophies
  
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fastidiousflame&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=fastidiousflame&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="95%"/>
 </div>
  
 ---
@@ -86,8 +92,6 @@ Hey, I'm **Rajrup**, a CS student at **MIT Manipal** 🇮🇳 building at the in
 ## 🚀 Featured Projects
  
 <div align="center">
- 
-> ⚠️ *[Cam2BEV](https://github.com/fastidiousflame/Cam2BEV) is a fork of [ika-rwth-aachen/Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) — not original work.*
  
 <a href="https://github.com/fastidiousflame/Mahe_Mobility_Bird-s_Eye">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=fastidiousflame&repo=Mahe_Mobility_Bird-s_Eye&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f" />
@@ -102,6 +106,9 @@ Hey, I'm **Rajrup**, a CS student at **MIT Manipal** 🇮🇳 building at the in
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Manipal-Hackathon-2025&repo=SafaiSaathi-Bugbounty&theme=github_dark&hide_border=true&title_color=a78bfa&icon_color=f97316&bg_color=0a0a0f" />
 </a>
  
+<br/>
+<sub>⚠️ <a href="https://github.com/fastidiousflame/Cam2BEV">Cam2BEV</a> is a fork of <a href="https://github.com/ika-rwth-aachen/Cam2BEV">ika-rwth-aachen/Cam2BEV</a> — not original work.</sub>
+ 
 </div>
  
 ---
@@ -115,38 +122,6 @@ Hey, I'm **Rajrup**, a CS student at **MIT Manipal** 🇮🇳 building at the in
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/fastidiousflame/fastidiousflame/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </picture>
 </div>
- 
-<details>
-<summary>💡 <b>Click to set up the snake animation</b></summary>
-<br/>
- 
-Create `.github/workflows/snake.yml` in your profile repo, then go to **Settings → Actions → General → Workflow permissions → Read and write**.
- 
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: fastidiousflame
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
- 
-</details>
  
 ---
  
