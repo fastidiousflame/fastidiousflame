@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-Hey, I'm **Rajrup**, a CSE (AIML) student at **MIT Manipal** 🇮🇳 building at the intersection of Machine Learning and Full-Stack Engineering. I like turning messy research ideas into working systems.
+Hey, I'm **Rajrup**, a CS student at **MIT Manipal** 🇮🇳 building at the intersection of Machine Learning and Full-Stack Engineering. I like turning messy research ideas into working systems.
 
 **Current Focus:**
 - 🚗 BEV perception & ML model development
@@ -114,6 +114,24 @@ Hey, I'm **Rajrup**, a CSE (AIML) student at **MIT Manipal** 🇮🇳 building a
 
 <br/>
 <sub>⚠️ <a href="https://github.com/fastidiousflame/Cam2BEV">Cam2BEV</a> is a fork of <a href="https://github.com/ika-rwth-aachen/Cam2BEV">ika-rwth-aachen/Cam2BEV</a> — not original work.</sub>
+
+</div>
+
+---
+
+## 🏅 Hackathons
+
+<div align="center">
+
+| # | Hackathon | Organizer |
+|---|-----------|-----------|
+| 1 | **Manipal Hackathon M#** | MIT Manipal |
+| 2 | **NovaGenesis Hackathon** | NovaGenesis |
+| 3 | **Aurora Hackathon** | ISTE |
+| 4 | **ACM Hackathon** | ACM Student Chapter |
+| 5 | **Mahe Mobility Hackathon** | MAHE |
+
+![5 Hackathons](https://img.shields.io/badge/Hackathons%20Participated-5-a78bfa?style=for-the-badge&logo=thunderstruck&logoColor=white)
 
 </div>
 
