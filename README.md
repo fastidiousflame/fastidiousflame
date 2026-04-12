@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-Hey, I'm **Rajrup**, a CSE (AIML) student at **MIT Manipal** 🇮🇳 building at the intersection of Machine Learning and Full-Stack Engineering. I like turning messy research ideas into working systems.
+Hey, I'm **Rajrup**, a CSE(AIML) student at **MIT Manipal** 🇮🇳 building at the intersection of Machine Learning and Full-Stack Engineering. I like turning messy research ideas into working systems.
 
 **Current Focus:**
 - 🚗 BEV perception & ML model development
@@ -47,7 +47,11 @@ Hey, I'm **Rajrup**, a CSE (AIML) student at **MIT Manipal** 🇮🇳 building a
 
 ### 🛠️ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,express,flask,mongodb,postgresql,oracle&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=nodejs,python,express,flask&theme=dark&perline=4"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,oracle&theme=dark&perline=4"/>
 
 <br/>
 
