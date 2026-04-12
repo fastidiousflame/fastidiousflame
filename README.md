@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+at+the+intersection+of+ML+%26+Web...;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+PyTorch;BEV+Perception+%C2%B7+JavaFX+%C2%B7+Full-Stack;Open+to+collaborations+%E2%80%94+let%27s+build+something.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Training+models+by+day%2C+shipping+apps+by+night...;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+PyTorch;Where+neural+nets+meet+clean+UIs...;BEV+Perception+%C2%B7+JavaFX+%C2%B7+Full-Stack;Open+to+collaborations+%E2%80%94+let%27s+build+something.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-Hey, I'm **Rajrup**, a CSE(AIML) student at **MIT Manipal** 🇮🇳 building at the intersection of Machine Learning and Full-Stack Engineering. I like turning messy research ideas into working systems.
+Hey, I'm **Rajrup**, a CSE (AIML) student at **MIT Manipal** 🇮🇳 building at the intersection of Machine Learning and Full-Stack Engineering. I like turning messy research ideas into working systems.
 
 **Current Focus:**
 - 🚗 BEV perception & ML model development
@@ -37,34 +37,30 @@ Hey, I'm **Rajrup**, a CSE(AIML) student at **MIT Manipal** 🇮🇳 building at
 
 ## ⚙️ Tech Stack
 
+<div align="center">
+
 ### 🎨 Frontend
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind&theme=dark&perline=6"/>
-</div>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind&theme=dark&perline=6"/>
 
 <br/>
 
 ### 🛠️ Backend & Databases
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb,postgresql,oracle&theme=dark&perline=6"/>
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,python,express,flask,mongodb,postgresql,oracle&theme=dark&perline=7"/>
 
 <br/>
 
 ### 🤖 AI / ML
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=6"/>
-</div>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=6"/>
 
 <br/>
 
 ### 🖥️ Desktop & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,docker,git,linux,figma,vscode&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,docker,git,linux,figma,vscode&theme=dark&perline=6"/>
+
 </div>
 
 ---
@@ -119,7 +115,7 @@ Hey, I'm **Rajrup**, a CSE(AIML) student at **MIT Manipal** 🇮🇳 building at
 
 ---
 
-## 🏅 Hackathons I Participated In
+## 🏅 Hackathons I Participated
 
 <div align="center">
 
@@ -127,7 +123,7 @@ Hey, I'm **Rajrup**, a CSE(AIML) student at **MIT Manipal** 🇮🇳 building at
 |---|-----------|-----------|
 | 1 | **Manipal Hackathon M#** | MIT Manipal |
 | 2 | **NovaGenesis Hackathon** | NovaGenesis |
-| 3 | **Aurora Hackathon** | ISTE |
+| 3 | **Aurora Hackathon** | Aurora |
 | 4 | **ACM Hackathon** | ACM Student Chapter |
 | 5 | **Mahe Mobility Hackathon** | MAHE |
 
